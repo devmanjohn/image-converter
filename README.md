@@ -19,7 +19,7 @@ The script will create an `output` folder in the same directory as the script an
 
 ## Note
 
-This script assumes that the input directory and the output directory are in the same level. If the input directory is deeper in the hierarchy you will need to adjust the `relativePath` calculation accordingly.
+This script assumes that the input directory and the output directory are in the same level. If the input directory is deeper in the hierarchy you will need to adjust the `relativePath`.
 
 ## Dependencies
 
